@@ -1,0 +1,17 @@
+.inputbox{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    
+}
+
+
+.inpt{
+    margin: 15px;
+    padding: 10px;
+    border: none;
+    background-color: pink;
+    border-radius: 2px;
+}
